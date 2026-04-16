@@ -1,4 +1,4 @@
-##👋 Olá, Meu nome é Regis Oliveira
+👋 Olá, Meu nome é Regis Oliveira
 
 Atualmente estou cursando o primeiro Semestre de Gestão da Produção Industrial na Fatec de São José dos Campos.
 
