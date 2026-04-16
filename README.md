@@ -1,7 +1,7 @@
 ##👋 Olá, Meu nome é Regis Oliveira
-## Atualmente estou cursando o primeiro Semestre de Gestão da Produção Industrial na Fatec de São José dos Campos.
-## Sou formado em Técnico Eletrônico pelo Cephas. 
-## No momento, Trabalho na General Motors na linha de Produção.
+#Atualmente estou cursando o primeiro Semestre de Gestão da Produção Industrial na Fatec de São José dos Campos.
+#Sou formado em Técnico Eletrônico pelo Cephas. 
+#No momento, Trabalho na General Motors na linha de Produção.
 
 <!--
 **regisoliveiragx-rgb/regisoliveiragx-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
